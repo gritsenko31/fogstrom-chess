@@ -1,7 +1,7 @@
 🌫️ Fog of War Chess
 A unique chess variant with Fog of War mechanics — play against AI
 
-🔗 Live demo: chesslessonspro.com/fogstorm-chess
+🔗 Live demo: [chesslessonspro.com/fogstorm-chess](https://www.chesslessonspro.com/fogstorm-chess/)
 
 Fog of War Chess
 
